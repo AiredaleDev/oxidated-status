@@ -1,0 +1,9 @@
+[package]
+name = "rusty_dwmbar"
+version = "0.1.0"
+authors = ["AiredaleDev <airedaledev@protonmail.com>"]
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.40"
+x11 = "2.18.2"
